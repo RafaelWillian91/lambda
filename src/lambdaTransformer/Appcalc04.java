@@ -1,6 +1,4 @@
-package expressoesLambdaSemParametros;
-
-import org.w3c.dom.ls.LSOutput;
+package lambdaTransformer;
 
 public class Appcalc04 {
 

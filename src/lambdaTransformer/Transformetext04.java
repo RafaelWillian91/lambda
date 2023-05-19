@@ -1,4 +1,4 @@
-package expressoesLambdaSemParametros;
+package lambdaTransformer;
 
 @FunctionalInterface
 public interface Transformetext04 {
