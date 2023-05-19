@@ -1,3 +1,5 @@
+package expressoesLambdaSimplificada;
+
 public class appCalc01 {
 
     public static void main(String[] args) {

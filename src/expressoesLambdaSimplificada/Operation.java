@@ -1,3 +1,5 @@
+package expressoesLambdaSimplificada;
+
 @FunctionalInterface
 public interface Operation {
 
