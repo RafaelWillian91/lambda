@@ -7,6 +7,7 @@ public class appClosure01 {
         int mult = 2;
         //Closure são variáveis externas que podem ser usadas dentro de expressoes lambda.
         //Elas devem ser final explicitamente ou inferidas pelo compilador.
+        //Essa regra não se aplica a variáveis que são atributos de classes.
         Closureapp1 op = (n1, n2) -> n1 + n2 * mult;
 
         System.out.println(op.calculate(12, 23));
